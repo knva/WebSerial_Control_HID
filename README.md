@@ -1,7 +1,7 @@
 ## Serial or WebSerial Control HID DEMO
 
 
-![altext](https://github.com/knva/WebSerial_Control_HID/blob/master/images/show.gif)
+![altext](https://raw.githubusercontent.com/knva/WebSerial_Control_HID/main/images/show.gif)
 
 使用串口或者WEBUSB操作HID设备
 
