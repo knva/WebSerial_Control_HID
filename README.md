@@ -1,11 +1,13 @@
 ## Serial or WebSerial Control HID DEMO
 
 
+![altext](https://github.com/knva/WebSerial_Control_HID/blob/master/images/show.gif)
+
 使用串口或者WEBUSB操作HID设备
 
 ```
 shoot\r -> mouse.click();
-move100:100 - > mouse.move(100,100);
+move100:100\r - > mouse.move(100,100);
 ```
 板卡使用树莓派PICO
 
